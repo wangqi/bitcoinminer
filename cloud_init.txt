@@ -1,0 +1,4 @@
+#cloud-config
+runcmd:
+  - sed -i 's/Defaults    requiretty/Defaults    !requiretty/' /etc/sudoers
+  - echo 'Defaults:ec2-user !requiretty' > /etc/sudoers.d/888-vagrant-cloud-init-requiretty
