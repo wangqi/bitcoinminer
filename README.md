@@ -1,7 +1,8 @@
 bitcoinminer
 ============
 
-It is a vagrant project used to setup a Amazon EC2 cg1.4xlarge instance to mine bitcoin.
+It is a vagrant project used to setup an Amazon EC2 cg1.4xlarge instance to mine bitcoin.
+
 Someone said it makes no economic sense. But I don't believe it. Let's try.
 According to Amazon, there is a instance type called '[cg1.4xlarge](http://aws.amazon.com/cn/ec2/instance-types/)'
 which has 2 * Intel Xeon X5570 and 2 * NVIDIA Tesla M2050 GPU. It will cost you $2.1 per hour. Really expensive, right?
