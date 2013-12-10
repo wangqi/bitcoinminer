@@ -40,7 +40,7 @@ Vagrant.require_plugin "vagrant-aws"
 - Run the 'vagrant up' command in this repository directory.
   If everything is OK, you can see a new instance has been setup for you now.
 
-  ![revolunet logo](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg "revolunet logo")
+  ![ec2 instance](https://raw.github.com/wangqi/bitcoinminer/master/doc/img/ec2.png "cg1.4xlarge")
 
   And required programs are already installed for you by vagrant script.
 
@@ -52,11 +52,11 @@ Vagrant.require_plugin "vagrant-aws"
 # Am I rich now?
 The cg1.4xlarge can mine bitcoin at the following speed ( Only test for 2 hours because I am really poor )
 
-![revolunet logo](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg "revolunet logo")
+![speed](https://raw.github.com/wangqi/bitcoinminer/master/doc/img/speed.png "speed")
 
 And I got the following bitcoin :
 
-![revolunet logo](http://www.revolunet.com/static/parisjs8/img/logo-revolunet-carre.jpg "revolunet logo")
+![bitcoin](https://raw.github.com/wangqi/bitcoinminer/master/doc/img/bitcoin.png "bitcoin")
 
 The **0.00000024 BTC** is about **$0.000228**. But the cost for me is **$4.2**. My heart is broken.
 
